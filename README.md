@@ -1,5 +1,8 @@
 # CS 678 - Computer Vision
+
 Fall 2022 - Audited
+
+(Fall 2023 - Taken for credit )
 
 Textbooks: Szeliski, Richard, [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/), 2nd edition
 
